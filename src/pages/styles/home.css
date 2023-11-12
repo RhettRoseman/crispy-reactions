@@ -1,0 +1,33 @@
+.home {
+    max-width: 800px;
+    margin: 0 auto;
+    margin-top: 20rem;
+    padding: 20px;
+    background-color: #ffffff;
+    border: 1px solid #074d34;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .home:hover{
+    cursor: pointer;
+    background: #2e5d4c;
+    color: #ffffff;
+  }
+  .home h1 {
+    color: #000000;
+    text-align: center;
+    margin-top: 2.5rem;
+    
+  }
+  .home h1:hover{
+    color: #ffffff;
+  }
+  
+  .home p {
+    color: #777;
+    line-height: 1.6;
+  }
+  .home p:hover{
+    color: #ffffff;
+  }

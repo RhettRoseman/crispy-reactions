@@ -1,0 +1,29 @@
+.about {
+    max-width: 800px;
+    margin: 0 auto;
+    /* margin-top: 20rem; */
+    padding: 20px;
+    background-color: #ffffff;
+    border: 1px solid #074d34;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  .about:hover{
+    background-color: #074d34;
+    color: #ffffff;
+   
+  }
+  
+  .about h1 {
+    color: #333;
+    
+    margin-top: auto;
+  }
+  .about h1:hover{
+    color: #ffffff;
+  }
+
+  .about p:hover{
+    color: #ffffff;
+  }
+  

@@ -1,0 +1,38 @@
+/* Add this CSS in a separate stylesheet or in the same file as your component */
+
+.portfolio {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .project {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s, opacity 0.3s;
+  }
+  
+  .project:hover {
+    opacity: 0.8;
+    background-color: green;
+  }
+  
+  .project.active {
+    background-color: #3498db;
+    color: #fff;
+  }
+  
+  /* Additional styling for links */
+  .project a {
+    text-decoration: none;
+    color: #333;
+    display: block;
+    margin-top: 10px;
+    font-weight: bold;
+  }
+  
+  .project a:hover {
+    text-decoration: underline;
+  }
+  
