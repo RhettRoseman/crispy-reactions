@@ -1,11 +1,12 @@
 /* You can add this CSS in a separate stylesheet or in the same file as your component */
 
 #navbar {
-    background-color: #f8f9fa; /* Background color for the navbar */
+    /* background-color: #f8f9fa; Background color for the navbar */
     padding: 10px; /* Add some padding for better spacing */
   }
   
   .nav-tabs {
+    color: #ffffff;
     display: flex;
     list-style: none;
     padding: 0;
@@ -18,20 +19,20 @@
   
   .nav-link {
     text-decoration: none;
-    color: #007bff; /* Default link color */
+    color: #ffffff; /* Default link color */
     border: 1px solid transparent; /* Remove the default border */
     padding: 8px;
     border-radius: 4px;
   }
   
   .nav-link:hover {
-    background-color: #e1eaf1; /* Change background color on hover */
+    background-color:#093932; /* Change background color on hover */
   }
   
   /* Active link styles */
   .nav-link.active {
     background-color: #007bff; /* Active link background color */
-    color: #fff; /* Active link text color */
+    color: #630505; /* Active link text color */
     border-color: #007bff; /* Active link border color */
   }
   

@@ -1,7 +1,7 @@
 import "./styles/resume.css"
 export default function Resume() {
   return (
-    <div classname="resume">
+    <div className="resume">
       <h1>Resume</h1>
       <p>
         Donec a volutpat quam. Curabitur nec varius justo, sed rutrum ligula.

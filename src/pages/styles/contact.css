@@ -38,7 +38,7 @@ body {
   input,
   textarea {
     padding: 10px;
-    margin-bottom: 16px;
+    margin-bottom: 35rem;
     border: 1px solid #ccc;
     border-radius: 4px;
     box-sizing: border-box;
@@ -55,7 +55,7 @@ body {
   }
   
   button:hover {
-    background-color: #2779bd;
+    background: #2e5d4c;
   }
   
   @media screen and (max-width: 600px) {

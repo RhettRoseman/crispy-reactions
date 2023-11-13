@@ -1,21 +1,21 @@
 #root {
-  max-width: 1280px;
+  background-image: url('./images/trees.jpg');
+  background-position: cover;
+  background-position: center;
+  margin-bottom: 35rem;
+  /* max-width: 1280px; */
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
-  background-color: #053f29;
+  /* background-color: #053f29; */
 }
 
-#app {
-  background-image: url('src/images/keyboard-w-pen.jpg');
-}
- 
+
 
 .body {
-  background-image: url('keyboard-w-pen.jpg');
-  background-size: cover; /* Adjust as needed */
-  background-position: center; /* Adjust as needed */
-  height: 100vh; /* Set the height of the background */
+  /* background-image: url('src/images/keyboard-w-pen.jpg');
+  background-size: cover; 
+  background-position: center;  */
   margin: 0;
   padding: 0;
 }
