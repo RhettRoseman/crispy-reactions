@@ -2,29 +2,48 @@
 
 body {
     font-family: Arial, sans-serif;
+    margin-bottom: 25rem;
     margin: 0;
     padding: 0;
+    color: #ffffff;
     background-color: #f4f4f4;
+
+  }
+.portfolio{
+  margin-bottom: 35rem;
+}
+  .contact-info{
+    color:white;
   }
   
   .container {
     max-width: 600px;
     margin: 50px auto;
     background-color: #fff;
+    color: #ffffff;
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   }
-  
+  p{
+    color: #ffffff;
+  }
   .contact{
     text-align: center;
+    color: #ffffff;
+    margin-bottom: 30rem;
   }
 
-  h2 {
+  /* h2 {
     text-align: center;
-    color: #333;
+    color: #ffffff;
   }
-  
+  h3{
+    color: #ffffff;
+  }
+  p{
+    color: #fff;
+  } */
   form {
     display: flex;
     flex-direction: column;

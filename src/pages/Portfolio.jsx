@@ -6,18 +6,18 @@ export function Portfolio() {
 
       <div className="project">
         <h3>Project 1</h3>
-        <p>Description of Project 1.</p>
+        <h6>Version Control (Git)</h6>
         <a href="#">View Project</a>
       </div>
 
       <div className="project">
         <h3>Project 2</h3>
-        <p>Description of Project 2.</p>
+        <h6>Backend Project</h6>
         <a href="#">View Project</a>
       </div>
       <div className="project">
         <h3>Project 3</h3>
-        <p>Description of Project 2.</p>
+       <h6>Full stack App</h6>
         <a href="#">View Project</a>
       </div>
 

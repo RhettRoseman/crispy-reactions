@@ -3,6 +3,7 @@
 .portfolio {
     /* display: flex; */
     flex-wrap: wrap;
+    color: #fff;
   }
   
   .project {
